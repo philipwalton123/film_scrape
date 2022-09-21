@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  font-size: 5rem;
+}
+
+.result {
+  width: 80%;
+  height: 3rem;
+  border: solid black;
+  margin: 1rem;
+  text-align: center;
+}
